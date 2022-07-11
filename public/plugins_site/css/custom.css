@@ -98,13 +98,47 @@
 /* Lang switch end */
 /* //////////////////////////////////////////////////////////////// */
 
+.banner__txt{
+    line-height: 24px;
+    font-size: 17px;
+    color: #fff;
+}
+
+.consult-bn {
+    font-size: 15px !important;
+    padding: 12px !important;
+    width: auto !important;
+}
+
+.about-svg-bt {
+    bottom: -300px !important;
+}
+
+.read-more{
+    transition: .5s ease;
+    font-size: 20px !important;
+}
+
+.read-more:hover{
+    background: #fff !important;
+    color: #212529 !important;
+    border: 1px solid #212529 !important;
+}
 
 
+.why-choose-block h2{
+    font-size: 25px !important;
+    font-weight: 600 !important;
+}
 
-
-
-
-
+.why-choose-block h3{
+    font-weight: 600 !important;
+}
+.why-choose-block p{
+    font-weight: normal !important;
+    color: #000 !important;
+    font-size: 16px !important;
+}
 
 /* ******************************************************************* */
 /* Media queries */

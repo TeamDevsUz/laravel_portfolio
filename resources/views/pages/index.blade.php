@@ -8,17 +8,19 @@
       <div class="banner-div-content d-grid align-content-center">
         <div class="row  row-cols-1 row-cols-lg-2 align-items-center text-center text-lg-start justify-content-center flex-column-reverse flex-lg-row justify-content-lg-between">
           <div class="col">
-            <h1 class="mb-3 mt-3 mt-lg-0"> IT Solutions & Business
-              <span class="d-block"> Services Company </span>
+            <h1 class="mb-3 mt-3 mt-lg-0"> 
+              Создание продающих сайтов
             </h1>
-            <p class="mb-3"> Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, magna aliqua. ipsum is simply dummy
-              text of the printing.
-
+            
+            <p class="banner__txt mb-3">
+                ✓ Адаптив под все устройства<br>
+              <br>
+                ✓ Платформа WordPress<br>
+              <br>
+                ✓&nbsp;Кроссбраузерность и быстродействие<br>
             </p>
-
-            <a href="#" class="btn consult-bn"> About </a>
-            <a href="#" class="btn consult-bn contact-bn"> Contact </a>
+            
+            <a href="#" class="btn consult-bn" data-bs-toggle="modal" data-bs-target="#quickModal">Получить консультацию</a>
           </div>
           <div class="col">
             <figure>
@@ -31,11 +33,11 @@
 </div>
 
 <!-- section -->
-<section class="total-body mobile-comon-animation pt-3 d-block">
+<section class="total-body mobile-comon-animation pt-4 d-block">
     <div class="service-block">
       <div class="container">
-        <h6 class="text-center " data-aos="fade-up"> Our Services </h6>
-        <h2 class="text-center " data-aos="fade-down"> What We Do </h2>
+        <h6 class="text-center " data-aos="fade-up">Наши услуги</h6>
+        <h2 class="text-center " data-aos="fade-down">Что мы делаем</h2>
         <div class="row row-cols-1 row-cols-sm-2 g-lg-5  mt-0 row-cols-lg-3">
           <div class="col" data-aos="fade-left">
             <a href="#" class="comon-services text-center">
@@ -130,41 +132,40 @@
         <div class="row g-lg-5 mt-4 row-cols-1 row-cols-lg-2 align-items-center">
           <div class="col " data-aos="fade-left">
             <figure>
-              <img src="images/rawpixel-567016-unsplash-copyright-min-1024x683.jpg" alt="ab-pic">
+              <img src="{{asset('plugins_site/images/rawpixel-567016-unsplash-copyright-min-1024x683.jpg')}}" alt="ab-pic">
             </figure>
           </div>
           <div class="col " data-aos="fade-right">
-            <h6 class="mt-5 mt-lg-0"> About Us </h6>
-            <h2> Providing your business with a <br> quality IT service is our passion.</h2>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-              labore et dolore magna aliqua enim ad minim veniam, nostrud</p>
+            <h6 class="mt-5 mt-lg-0">Biz haqimizda</h6>
+            <h2> TeamDevs-Freelance Team</h2>
+            <p>TeamDevs — это команда молодых специалистов, которые выбирают маркетинговую стратегию и план действий для продвижения вашего бизнеса, достижения эффективных результатов и выведения вашего бизнеса на лидирующие позиции с минимальными затратами.</p>
             <div class="skillset">
               <div class="skill-lockup">
-                <span class="skill-name mb">Communication</span><span class="skill-status">40%</span>
+                <span class="skill-name mb">Коммуникация</span><span class="skill-status">40%</span>
                 <span class="skill-bar">
                   <span class="skill-level  communication"></span>
                 </span>
               </div>
               <div class="skill-lockup mr">
-                <span class="skill-name mb">Planning</span><span class="skill-status">15%</span>
+                <span class="skill-name mb">Планирование</span><span class="skill-status">15%</span>
                 <span class="skill-bar">
                   <span class="skill-level planning"></span>
                 </span>
               </div>
               <div class="skill-lockup">
-                <span class="skill-name mb">Learning</span><span class="skill-status">45%</span>
+                <span class="skill-name mb">Обучение</span><span class="skill-status">45%</span>
                 <span class="skill-bar">
                   <span class="skill-level learning"></span>
                 </span>
               </div>
               <div class="skill-lockup mr">
-                <span class="skill-name mb">Programming</span><span class="skill-status">30%</span>
+                <span class="skill-name mb">Программирование</span><span class="skill-status">30%</span>
                 <span class="skill-bar">
                   <span class="skill-level programming"></span>
                 </span>
               </div>
             </div>
-            <a href="#" class="btn read-more"> Read More <i class="fas fa-caret-right"></i> </a>
+            <a href="#" class="btn read-more" data-bs-toggle="modal" data-bs-target="#quickModal"> Получить консультацию <i class="fas fa-caret-right"></i> </a>
           </div>
         </div>
       </div>
@@ -175,63 +176,62 @@
           </path>
         </svg>
       </div>
-
     </div>
 
     <div class="why-choose-block">
       <div class="container">
-        <div class="row row-cols-1 row-cols-lg-2 mt-5 g-lg-5 align-items-center flex-column-reverse flex-lg-row">
-          <div class="col " data-aos="fade-left">
-            <h6 class="mt-4 mt-lg-0"> Why Choose Us? </h6>
-            <h2> Safeguard your brand with Cyber-Security & IT Solutions </h2>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. </p>
-            <ul class="list-unstyled mt-4">
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-            </ul>
+        <h6 class="text-center mt-5" data-aos="fade-up">Почему нужно выбрать нас?</h6>
+        <h2 class="text-center text-6 mb-4" data-aos="fade-down">Наша сильная сторона в сервисе создания сайтов</h2>
+        <div class="row justify-content-lg-start justify-content-center mb-3 aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
+          <div class="col-lg-10">
+            <div class="row align-items-center justify-content-center">
+              <div class="col-lg-7">
+                <h3>Скоростной</h3>
+                <p>Создайте и запустите свой веб-сайт в течение нескольких дней, чтобы помочь вам создать бизнес, повысить узнаваемость бренда и повысить доброжелательность ваших клиентов и целевой аудитории.</p>
+              </div>
+              <div class="col-lg-4" data-aos="fade-right">
+                  <figure class="mb-0">
+                    <img src="{{asset('plugins_site/images/icons/icon-1.png')}}" alt="bn">
+                  </figure>
+              </div>
+            </div>
           </div>
-          <div class="col " data-aos="fade-right">
-            <figure class="mb-0">
-              <img src="images/featured-image-7.png" alt="bn">
-            </figure>
-
+        </div>
+        
+        <div class="row justify-content-lg-end justify-content-center mb-3 aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
+          <div class="col-lg-10">
+            <div class="row align-items-center justify-content-center flex-row-reverse">
+              <div class="col-lg-7">
+                <h3>Низкая цена</h3>
+                <p>Предлагайте разумную цену на рынке от 300 ринггитов в месяц с высококачественными услугами по продвижению вашего бренда в Интернете с помощью тем профессионального качества, разработанных с использованием Webflow в качестве платформы.</p>
+              </div>
+              <div class="col-lg-4" data-aos="fade-left">
+                  <figure class="mb-0">
+                    <img src="{{asset('plugins_site/images/icons/icon-2.png')}}" alt="bn">
+                  </figure>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="row justify-content-lg-start justify-content-center mb-3 aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
+          <div class="col-lg-10">
+            <div class="row align-items-center justify-content-center">
+              <div class="col-lg-7">
+                <h3>Полная поддержка вашего сайта</h3>
+                <p>Создавайте веб-сайты, которые поддерживаются на всех устройствах, включая мобильные устройства, планшеты и ПК, чтобы еще больше расширить свое присутствие в Интернете, особенно на рынках Малайзии и Юго-Восточной Азии. Расширьте свой веб-сайт с помощью наших удобных настроек поисковой оптимизации (SEO) при создании своего веб-сайта.</p>
+              </div>
+              <div class="col-lg-4" data-aos="fade-right">
+                  <figure class="mb-0">
+                    <img src="{{asset('plugins_site/images/icons/icon-3.png')}}" alt="bn">
+                  </figure>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="trust-choose-block">
-      <div class="container">
-        <div class="row row-cols-1 row-cols-lg-2 mt-3 g-lg-5 align-items-center">
-          <div class="col " data-aos="fade-down">
-            <figure class="mb-0">
-              <img src="images/support-center1.png" alt="bn">
-            </figure>
-
-          </div>
-          <div class="col " data-aos="fade-up">
-            <h6 class="mt-4 mt-lg-0"> Why Trust Us? </h6>
-            <h2> Our Team is Responsible for The Your Projects </h2>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. </p>
-            <ul class="list-unstyled mt-4">
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-              <li> <i class="fas fa-long-arrow-alt-right"></i> consectetur adipiscing elit </li>
-            </ul>
-          </div>
-
-        </div>
-      </div>
-    </div>
 
     <div class="our-work-details">
       <div class="our-work-svg">
@@ -242,10 +242,7 @@
         </svg>
       </div>
       <div class="container">
-        <h2 class="text-center " data-aos="fade-down"> 20 years of Expreience in IT Field</h2>
-        <p class="text-center " data-aos="fade-up"> It is a long established fact that a reader will be distracted by
-          the readable content of a page when looking at its layout. </p>
-        <div class="row row-cols-1 row-cols-lg-4 mt-5" data-aos="fade-up">
+        <div class="row row-cols-1 row-cols-lg-4" data-aos="fade-up">
           <div class="col">
             <div class="comon-st-div">
               <i class="fas fa-award"></i>

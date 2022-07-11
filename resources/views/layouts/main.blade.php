@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>TeamDevs - Freelance Team</title>
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="{{asset('plugins_site/images/favicon-logo.png')}}" type="image/x-icon">
   <!-- Bootstrap CSS -->
   <link href="{{asset('plugins_site/css/bootstrap.min.css')}}" rel="stylesheet">
   <link rel="stylesheet" href="{{asset('plugins_site/aos%403.0.0-beta.6/dist/aos.css')}}">
@@ -24,11 +24,11 @@
 
 <body>
 
-  <div class="loader">
+  <!-- <div class="loader">
     <div class="loader-content">
       <img src="{{asset('plugins_site/images/Rhombus.gif')}}" alt="Loader" class="loader-loader">
     </div>
-  </div>
+  </div> -->
   <!-- loader html -->
   <!-- comon header  -->
   <header>
