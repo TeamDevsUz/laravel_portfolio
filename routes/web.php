@@ -6,6 +6,7 @@ use App\Http\Controllers\Blade\RoleController;
 use App\Http\Controllers\Blade\PermissionController;
 use App\Http\Controllers\Blade\HomeController;
 use App\Http\Controllers\Blade\ApiUserController;
+use App\Http\Controllers\Blade\PagesController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,19 +19,21 @@ use App\Http\Controllers\Blade\ApiUserController;
 */
 
 // Default laravel auth routes
-Auth::routes();
+// Auth::routes();
 
-
+Auth::routes([
+    'register' => false
+]);
 // Welcome page
-Route::get('/', function (){
-    return redirect()->route('home');
-})->name('welcome');
-
+// Route::get('/', function (){
+//     return redirect()->route('home');
+// })->name('welcome');
+Route::get('/', [PagesController::class, 'index'])->name('siteIndex');
 // Web pages
 Route::group(['middleware' => 'auth'],function (){
 
     // there should be graphics, diagrams about total conditions
-    Route::get('/home', [HomeController::class,'index'])->name('home');
+    Route::get('/admin', [HomeController::class,'index'])->name('home');
 
     // Users
     Route::get('/users',[UserController::class,'index'])->name('userIndex');
@@ -78,7 +81,7 @@ Route::get('/language/{lang}',function ($lang){
         ]);
     }
     return redirect()->back();
-});
+}) -> name('changelang');
 
 /*
 |--------------------------------------------------------------------------

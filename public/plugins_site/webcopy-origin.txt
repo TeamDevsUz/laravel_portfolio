@@ -1,0 +1,520 @@
+Uri: https://ascinate.in/templatemonster/oxentech/
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\index.htm
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/about.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\about.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/app.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\app.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/blog-details.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\blog-details.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/blog.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\blog.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/career-details.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\career-details.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/career.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\career.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/contact.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\contact.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/css/all.min.css
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\css\all.min.css
+Content Type: text/css
+
+Uri: https://ascinate.in/templatemonster/oxentech/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ascinate.in/templatemonster/oxentech/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://ascinate.in/templatemonster/oxentech/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://ascinate.in/templatemonster/oxentech/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://ascinate.in/templatemonster/oxentech/css/style.css
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\css\style.css
+Content Type: text/css
+
+Uri: https://ascinate.in/templatemonster/oxentech/data.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\data.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/favicon.ico
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/30d2ecd56e9c1ae31c927e29c0e6338d.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\30d2ecd56e9c1ae31c927e29c0e6338d.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/62dd189f4015cb48e616253af5376fa5.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\62dd189f4015cb48e616253af5376fa5.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/84a5f2715ef8ef2bd232323bf334a4ea--bird-logos-logo-design.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\84a5f2715ef8ef2bd232323bf334a4ea--bird-logos-logo-design.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/92_4x.webp
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\92_4x.webp
+Content Type: image/webp
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/a1.jpeg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\a1.jpeg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/a2.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\a2.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/a3.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\a3.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/a5.jfif
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\a5.jfif
+Content Type: 
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/aplication.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\aplication.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/apps-icon-hover.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\apps-icon-hover.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/apps-icon.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\apps-icon.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/attachment.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\attachment.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/awd-logo.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\awd-logo.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/awd-logo2.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\awd-logo2.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/awd-logo5.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\awd-logo5.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/banner-pic-subpage.webp
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\banner-pic-subpage.webp
+Content Type: image/webp
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/banner-pic.webp
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\banner-pic.webp
+Content Type: image/webp
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/bg-banner.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\bg-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/bg-call.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\bg-call.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/bg-consult.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\bg-consult.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/Client-Logo-20.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\Client-Logo-20.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/clogo6.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\clogo6.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/clogo9.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\clogo9.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/crm.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\crm.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/data-icon-hover.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\data-icon-hover.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/data-icon.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\data-icon.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/developing-a-web-solution-1024x660-1024x660.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\developing-a-web-solution-1024x660-1024x660.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/dribbble.webp
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\dribbble.webp
+Content Type: image/webp
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/ecommerce.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\ecommerce.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/ex-bg.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\ex-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/featured-image-7.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\featured-image-7.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/feature_image.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\feature_image.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/fundamentals-of-digital-marketing.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\fundamentals-of-digital-marketing.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/gols.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\gols.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/it-icon-hover.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\it-icon-hover.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/it-icon.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\it-icon.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/logo-sc.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\logo-sc.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/logo.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\logo.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/metranet.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\metranet.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/mision.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\mision.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/network-hover.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\network-hover.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/network.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\network.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/office.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\office.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/okopova_PHOTO_03.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\okopova_PHOTO_03.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/pexels-photo-443383.jpeg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\pexels-photo-443383.jpeg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/pexels-photo-5673488.jpeg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\pexels-photo-5673488.jpeg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/php.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\php.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/PngItem_1247896.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\PngItem_1247896.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/PngItem_1582086.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\PngItem_1582086.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/PngItem_2877398.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\PngItem_2877398.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/PngItem_3933409.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\PngItem_3933409.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/PngItem_43903n.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\PngItem_43903n.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/PngItem_5302843.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\PngItem_5302843.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/PngItem_6766382.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\PngItem_6766382.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/pngwing.com (1).png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\pngwing.com (1).png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/rawpixel-567016-unsplash-copyright-min-1024x683.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\rawpixel-567016-unsplash-copyright-min-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/Rhombus.gif
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\Rhombus.gif
+Content Type: image/gif
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/seo-icon-hover.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\seo-icon-hover.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/seo-icon.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\seo-icon.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/support-center1.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\support-center1.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/svg-web.svg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\svg-web.svg
+Content Type: image/svg+xml
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/teacher-11.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\teacher-11.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/testimonials-1-1.jpg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\testimonials-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/web-icon-hover.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\web-icon-hover.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/images/web-icon.png
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\images\web-icon.png
+Content Type: image/png
+
+Uri: https://ascinate.in/templatemonster/oxentech/index.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\index.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/itsolution.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\itsolution.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://ascinate.in/templatemonster/oxentech/js/custom.js
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\js\custom.js
+Content Type: application/javascript
+
+Uri: https://ascinate.in/templatemonster/oxentech/js/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://ascinate.in/templatemonster/oxentech/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ascinate.in/templatemonster/oxentech/js/mixitup.min.js
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\js\mixitup.min.js
+Content Type: application/javascript
+
+Uri: https://ascinate.in/templatemonster/oxentech/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://ascinate.in/templatemonster/oxentech/networking.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\networking.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/pricing.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\pricing.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/projects.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\projects.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/seo.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\seo.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/webdevelopment.html
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webdevelopment.html
+Content Type: text/html
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://ascinate.in/templatemonster/oxentech/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\ascinate.in\templatemonster\oxentech\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\ascinate.in\npm\bootstrap-icons@1.5.0\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/fonts/bootstrap-icons.woff2?856008caa5eb66df68595e734e59580d
+File Name: C:\Downloaded Web Sites\ascinate.in\npm\bootstrap-icons@1.5.0\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/fonts/bootstrap-icons.woff?856008caa5eb66df68595e734e59580d
+File Name: C:\Downloaded Web Sites\ascinate.in\npm\bootstrap-icons@1.5.0\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js
+File Name: C:\Downloaded Web Sites\ascinate.in\ajax\libs\wow\1.1.2\wow.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\ascinate.in\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\ascinate.in\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\ascinate.in\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\ascinate.in\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\ascinate.in\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\ascinate.in\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\ascinate.in\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\ascinate.in\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\ascinate.in\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\ascinate.in\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\ascinate.in\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\ascinate.in\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/aos@3.0.0-beta.6/dist/aos.css
+File Name: C:\Downloaded Web Sites\ascinate.in\aos@3.0.0-beta.6\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@3.0.0-beta.6/dist/aos.js
+File Name: C:\Downloaded Web Sites\ascinate.in\aos@3.0.0-beta.6\dist\aos.js
+Content Type: application/javascript
+
