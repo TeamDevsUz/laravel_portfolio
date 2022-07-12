@@ -232,7 +232,7 @@
       </div>
     </div>
 
-    <div class="our-work-details">
+    <!-- <div class="our-work-details">
       <div class="our-work-svg">
         <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1440 320">
           <path fill="#ffffff" fill-opacity="1"
@@ -276,8 +276,100 @@
           </path>
         </svg>
       </div>
-    </div>
+    </div> -->
 
+    <div class="works padding_y-80" style="background-color: #e4e4e4;">
+      <div class="container">
+        <div class="main_block">
+          <h6 class="text-center " data-aos="fade-up" style="color: #00579a;">Наши работы</h6>
+          <h2 class="text-center mb-5" data-aos="fade-down">Делаем только классические сайты</h2>
+          <div class="main_block-row">
+            <div class="row">
+              <div class="col-lg-4 mb-lg-3">
+                <div class="main_block-row-item">
+                  <a href="https://silkroadmultilingual.com/" target="_blank">
+                    <figure class="main_block-row-item-img">
+                      <img src="{{asset('plugins_site/images/works/work-1.png')}}" alt="">
+                    </figure>
+                    <div class="main_block-row-item-txt">
+                      <div class="main_block-row-item-txt-content text-center">
+                        <h3>Silk Road Multilingual</h3>
+                        <p>Web Site</p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 mb-lg-3">
+                <div class="main_block-row-item">
+                  <a href="http://saudivisa.uz/" target="_blank">
+                    <figure class="main_block-row-item-img">
+                      <img src="{{asset('plugins_site/images/works/work-2.png')}}" alt="">
+                    </figure>
+                    <div class="main_block-row-item-txt">
+                      <div class="main_block-row-item-txt-content text-center">
+                        <h3>Saud Visa Centre</h3>
+                        <p>Web Site</p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 mb-lg-3">
+                <div class="main_block-row-item">
+                  <a href="http://greencard.skybox.uz/" target="_blank">
+                    <figure class="main_block-row-item-img">
+                      <img src="{{asset('plugins_site/images/works/work-3.png')}}" alt="">
+                    </figure>
+                    <div class="main_block-row-item-txt">
+                      <div class="main_block-row-item-txt-content text-center">
+                        <h3>Green Card</h3>
+                        <p>Web Site</p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              
+              <div class="col-lg-4">
+                <div class="main_block-row-item">
+                  <a href="http://tesolasia.uk/" target="_blank">
+                    <figure class="main_block-row-item-img">
+                      <img src="{{asset('plugins_site/images/works/work-4.png')}}" alt="">
+                    </figure>
+                    <div class="main_block-row-item-txt">
+                      <div class="main_block-row-item-txt-content text-center">
+                        <h3>TEFL/TESOL Certification</h3>
+                        <p>Web Site</p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              
+              <div class="col-lg-4">
+                <div class="main_block-row-item">
+                  <a href="https://javohirtoirov.github.io/UzPharma/" target="_blank">
+                    <figure class="main_block-row-item-img">
+                      <img src="{{asset('plugins_site/images/works/work-5.png')}}" alt="">
+                    </figure>
+                    <div class="main_block-row-item-txt">
+                      <div class="main_block-row-item-txt-content text-center">
+                        <h3>Uzpharma</h3>
+                        <p>Web Site</p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
     <div class="team-block padding_y-80">
       <div class="container">
         <h6 class="text-center mt-5 mt-lg-0 mainn-head " data-aos="fade-up">Участник команды</h6>
@@ -432,36 +524,6 @@
       </div>
     </div>
 
-    <div class="call-contact" data-aos="fade-down">
-      <div class="call-svg">
-
-        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1440 320">
-          <path fill="#ffffff" fill-opacity="1"
-            d="M0,320L48,293.3C96,267,192,213,288,192C384,171,480,181,576,186.7C672,192,768,192,864,165.3C960,139,1056,85,1152,90.7C1248,96,1344,160,1392,192L1440,224L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z">
-          </path>
-        </svg>
-      </div>
-      <div class="container">
-        <h6 class="text-center"> Want To Work With Us? </h6>
-        <h2 class="text-center"> Digitally transform and grow your business! </h2>
-        <p class="text-center"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud consectetur voluptatem
-          accusantium doloremque adipiscing elit.
-
-        </p>
-
-        <a href="#" class="btn get-bn d-table m-auto">Get Free Consultaion </a>
-
-      </div>
-      <div class="call-bn-svg d-none">
-        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1440 320">
-          <path fill="#ffffff" fill-opacity="1"
-            d="M0,256L48,245.3C96,235,192,213,288,208C384,203,480,213,576,186.7C672,160,768,96,864,106.7C960,117,1056,203,1152,250.7C1248,299,1344,309,1392,314.7L1440,320L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z">
-          </path>
-        </svg>
-      </div>
-    </div>
-
     <div class="client-block">
       <div class="container">
         <h6 class="text-center " data-aos="fade-down"> Trusted By Over 40,000</h6>
@@ -511,8 +573,7 @@
         </div>
       </div>
     </div>
-
-
+    
   </section>
 <!-- section -->
 @endsection
