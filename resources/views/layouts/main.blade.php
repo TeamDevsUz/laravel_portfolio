@@ -20,6 +20,7 @@
   <link href="{{asset('plugins_site/css/style.css')}}" rel="stylesheet">
   <link rel="stylesheet" href="{{asset('plugins_site/css/owl.carousel.min.css')}}">
   <link rel="stylesheet" href="{{asset('plugins_site/css/owl.theme.default.min.css')}}">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/11.0.9/css/intlTelInput.css" rel="stylesheet" media="screen">
 </head>
 
 <body>
@@ -236,30 +237,23 @@
     aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Get It Support </h5>
+        <div class="modal-header" id="messageDiv2">
+          <h5 class="modal-title" id="exampleModalLabel">ФОРМА ДЛЯ ОБРАТНОГО ЗВОНКА</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="quick-form-div">
+          <div id = "messageDiv"></div>
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Full Name">
+              <input type="text" id="phone" class="form-control">
             </div>
             <div class="form-group">
-              <input type="email" class="form-control" placeholder="Email">
+              <input type="text" id="name" class="form-control" placeholder="Ваше имя...">
             </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Subject">
-            </div>
-            <div class="form-group">
-              <textarea class="form-control" placeholder="Message"></textarea>
-            </div>
-
           </div>
         </div>
         <div class="modal-footer">
-
-          <button type="button" class="btn subimt-comment">Send Message</button>
+          <button type="button" onclick="sendApplication()" class="btn subimt-comment">ОТПРАВИТЬ</button>
         </div>
       </div>
     </div>
@@ -357,6 +351,12 @@
   <script src="{{asset('plugins_site/js/bootstrap.bundle.min.js')}}"></script>
 
   <script src="{{asset('plugins_site/js/jquery.min.js')}}"></script>
+  <!-- input tell -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="{{asset('plugins_site/js/intlTelInput.js')}}"></script>
+  <script src="{{asset('plugins_site/js/dist/intlTelInput.min.js')}}"></script>
+  <script src="{{asset('plugins_site/js/dist/utils.js')}}"></script>
+  <!-- input tell -->
   <script src="{{asset('plugins_site/ajax/libs/wow/1.1.2/wow.min.js')}}">
   </script>
   <!-- Owl Carousel -->
@@ -377,9 +377,151 @@
       duration: 800,
 
     });
+    
+    function sendApplication() {
+
+    let submit = $("#submitForm");
+    let name = $("input[name=name]").val();
+    let phone = $("#phone").val();
+    let phoneCode = $(".selected-dial-code").text();
+    let nameCountry = $(".selected-flag").attr('title');
+    let message = $("#messageDiv");
+    let message2 = $("#messageDiv2");
+    let button = $("#getInfo");
+
+    phone = phoneCode + phone + '\n🌎' + nameCountry;
+
+    console.log(phone);
+
+    if(name.length == 0 || phone.length == 0)
+    {
+        message.text('All fields are required');
+        message.attr('class','alert alert-warning');
+    }
+    else{
+        console.log('adasd')
+        $.ajax({
+            url:'/send/application',
+            type: "POST",
+            data:{
+                name: name,
+                phone: phone,
+                _token: "{!! @csrf_token() !!}"
+            },
+            beforeSend:function () {
+                SpinnerGo(button);
+                console.log('okkk');
+            },
+            success:function (result) {
+                if(result.status)
+                {
+                    message2.attr('class','alert alert-success');
+                    message2.text(result.message ? "Вы успешно заполнили форму, в ближайшее время наш специалист свяжется с вами!" : "Вы успешно заполнили форму, в ближайшее время наш специалист свяжется с вами!");
+
+                    $('#formModal form :input').val("");
+                }
+                else
+                {
+                    message.attr('class','alert alert-danger');
+                    message.text(result.error ?? "Error!");
+                }
+                console.log(result)
+                SpinnerStop(button);
+                // $("#exampleModalCenter").modal('hide');
+            },
+            error:function(err){
+                console.log(err);
+            }
+        })
+    }
+    }
   </script>
 
 
+<script>
+    let message = $("#messageDiv");
+    var telInput = $("#phone"),
+        errorMsg = $("#error-msg"),
+        validMsg = $("#valid-msg");
+
+    // initialise plugin
+
+    telInput.intlTelInput({
+
+        allowExtensions: true,
+        formatOnDisplay: true,
+        autoFormat: true,
+        autoHideDialCode: true,
+        autoPlaceholder: true,
+        defaultCountry: "uz",
+        ipinfoToken: "yolo",
+
+        nationalMode: false,
+        numberType: "MOBILE",
+        //onlyCountries: ['us', 'gb', 'ch', 'ca', 'do'],
+        initialCountry: 'uz',
+        onlyCountries: ['uz', 'ru', 'kz', 'TJ', 'TM', 'KG', 'US'],
+        preventInvalidNumbers: true,
+        separateDialCode: true,
+        initialCountry: "uz",
+        geoIpLookup: function(callback) {
+            $.get("http://ipinfo.io", function() {}, "jsonp").always(function(resp) {
+                var countryCode = (resp && resp.country) ? resp.country : "";
+                callback(countryCode);
+            });
+        },
+        utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/11.0.9/js/utils.js"
+    });
+
+
+    var reset = function() {
+        telInput.removeClass("error");
+        errorMsg.addClass("hide");
+        validMsg.addClass("hide");
+    };
+
+    // on blur: validate
+    telInput.blur(function() {
+        reset();
+        if ($.trim(telInput.val())) {
+            if (telInput.intlTelInput("isValidNumber")) {
+                validMsg.removeClass("hide");
+                message.css('display', 'none');
+                // message.attr('class','alert alert-success');
+            } else {
+                // errorMsg.removeClass("hide");
+                telInput.addClass("error");
+                message.css('display', 'block');
+                message.text('Неправильный номер');
+                message.attr('class','alert alert-warning');
+            }
+        }
+    });
+
+    // on keyup / change flag: reset
+    telInput.on("keyup change", reset);
+
+
+    function validate(evt) {
+        var theEvent = evt || window.event;
+
+        // Handle paste
+        if (theEvent.type === 'paste') {
+            key = event.clipboardData.getData('text/plain');
+        } else {
+            // Handle key press
+            var key = theEvent.keyCode || theEvent.which;
+            key = String.fromCharCode(key);
+        }
+        var regex = /[0-9]|\./;
+        if( !regex.test(key) ) {
+            theEvent.returnValue = false;
+            if(theEvent.preventDefault) theEvent.preventDefault();
+        }
+    }
+
+
+</script>
 
 </body>
 

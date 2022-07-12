@@ -13,9 +13,9 @@
             </h1>
             
             <p class="banner__txt mb-3">
-                ✓ Адаптив под все устройства<br>
+                ✓ Адаптив под все устройства
               <br>
-                ✓ Платформа WordPress<br>
+                ✓ Платформа WordPress
               <br>
                 ✓&nbsp;Кроссбраузерность и быстродействие<br>
             </p>
@@ -232,7 +232,6 @@
       </div>
     </div>
 
-
     <div class="our-work-details">
       <div class="our-work-svg">
         <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1440 320">
@@ -279,147 +278,22 @@
       </div>
     </div>
 
-    <div class="testimonal-sec">
-
+    <div class="team-block padding_y-80">
       <div class="container">
-        <h6 class="text-center " data-aos="fade-down">Testimonial </h6>
-        <h2 class="text-center " data-aos="fade-up">Trusted By Our Clients </h2>
-
-        <div class="silder-div-text mt-5 " data-aos="fade-down">
-          <div class="w-100 overflow-hidden">
-            <div class="best-sl-m owl-carousel owl-theme">
-              <div class="item">
-                <div class="comon-div-ts">
-                  <h5> " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                    the industry's standard dummy. "</h5>
-                  <span>
-                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
-                      class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                  </span>
-                </div>
-
-                <div class="d-flex mt-4 align-items-center">
-                  <figure>
-                    <img src="images/testimonials-1-1.jpg" alt="pic">
-
-                  </figure>
-                  <h4> Jone Due, <span class="d-block"> -Italy </span> </h4>
-                </div>
-
-              </div>
-
-              <div class="item">
-                <div class="comon-div-ts">
-                  <h5> " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                    the industry's standard dummy. "</h5>
-                  <span>
-                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
-                      class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                  </span>
-                </div>
-                <div class="d-flex mt-4 align-items-center">
-                  <figure>
-                    <img src="images/testimonials-1-1.jpg" alt="pic">
-
-                  </figure>
-                  <h4> Jone Due, <span class="d-block"> -Italy </span> </h4>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="comon-div-ts">
-                  <h5> " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                    the industry's standard dummy. "</h5>
-                  <span>
-                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
-                      class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                  </span>
-                </div>
-
-                <div class="d-flex mt-4 align-items-center">
-                  <figure>
-                    <img src="images/testimonials-1-1.jpg" alt="pic">
-
-                  </figure>
-                  <h4> Jone Due, <span class="d-block"> -Italy </span> </h4>
-                </div>
-
-              </div>
-
-              <div class="item">
-                <div class="comon-div-ts">
-                  <h5> " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                    the industry's standard dummy. "</h5>
-                  <span>
-                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
-                      class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                  </span>
-                </div>
-
-                <div class="d-flex mt-4 align-items-center">
-                  <figure>
-                    <img src="images/testimonials-1-1.jpg" alt="pic">
-
-                  </figure>
-                  <h4> Jone Due, <span class="d-block"> -Italy </span> </h4>
-                </div>
-
-              </div>
-
-              <div class="item">
-                <div class="comon-div-ts">
-                  <h5> " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                    the industry's standard dummy. "</h5>
-                  <span>
-                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
-                      class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                  </span>
-                </div>
-                <div class="d-flex mt-4 align-items-center">
-                  <figure>
-                    <img src="images/testimonials-1-1.jpg" alt="pic">
-
-                  </figure>
-                  <h4> Jone Due, <span class="d-block"> -Italy </span> </h4>
-                </div>
-
-              </div>
-
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="team-block">
-      <div class="about-svg">
-        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1440 320">
-          <path fill="#f6f8fd" fill-opacity="1"
-            d="M0,160L40,176C80,192,160,224,240,250.7C320,277,400,299,480,288C560,277,640,235,720,224C800,213,880,235,960,234.7C1040,235,1120,213,1200,218.7C1280,224,1360,256,1400,272L1440,288L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z">
-          </path>
-        </svg>
-      </div>
-      <div class="container">
-        <h6 class="text-center mt-5 mt-lg-0 mainn-head " data-aos="fade-up">Team Member</h6>
-        <h2 class="text-center " data-aos="fade-down">Expert Team </h2>
+        <h6 class="text-center mt-5 mt-lg-0 mainn-head " data-aos="fade-up">Участник команды</h6>
+        <h2 class="text-center " data-aos="fade-down">Группа экспертов</h2>
         <div class="slide-team-div mt-5 " data-aos="fade-up">
           <div class="team-slid owl-carousel owl-theme">
             <div class="comon-team-div text-center">
               <figure>
-                <img src="images/teacher-11.jpg" alt="te">
+                <img src="{{asset('plugins_site/images/teacher-11.jpg')}}" alt="te">
               </figure>
               <h5> Ava Farrington </h5>
               <h6> Founder, ceo </h6>
             </div>
             <div class="comon-team-div text-center">
               <figure>
-                <img src="images/a1.jpeg" alt="te">
+                <img src="{{asset('plugins_site/images/a1.jpeg')}}" alt="te">
               </figure>
               <h5> Ava Farrington </h5>
               <h6> Founder, ceo </h6>
@@ -448,13 +322,6 @@
           </div>
 
         </div>
-      </div>
-      <div class="about-svg-bt">
-        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1440 320">
-          <path fill="#f6f8fd" fill-opacity="1"
-            d="M0,64L40,85.3C80,107,160,149,240,149.3C320,149,400,107,480,101.3C560,96,640,128,720,128C800,128,880,96,960,90.7C1040,85,1120,107,1200,144C1280,181,1360,235,1400,261.3L1440,288L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z">
-          </path>
-        </svg>
       </div>
     </div>
 
